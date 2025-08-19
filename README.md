@@ -39,8 +39,8 @@ Includes robust mobile controls, day/night cycle, cascaded shadow mapping, and a
 ### Installation
 
 ```
-git clone https://github.com/yourusername/r3f-infinite-character-controller.git
-cd r3f-infinite-character-controller
+git clone https://github.com/3merillon/React-Three-Fiber-Character-Controller.git
+cd React-Three-Fiber-Character-Controller
 npm install
 ```
 
@@ -170,12 +170,6 @@ MIT
 ## Contributing
 
 Pull requests and issues are welcome! Please open an issue for questions, bugs, or feature requests.
-
----
-
-## Screenshot
-
-![screenshot](./screenshot.png)
 
 ---
 
