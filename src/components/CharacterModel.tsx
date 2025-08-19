@@ -17,7 +17,7 @@ export function CharacterModel({
 }: CharacterModelProps) {
   const group = useRef<Group>(null);
   const [currentAnimation, setCurrentAnimation] = useState<string | null>(null);
-  const { scene, animations } = useGLTF('/models/character.glb', true);
+  const { scene, animations } = useGLTF('/models/character-ultra.glb', true);
   const { actions } = useAnimations(animations, group);
 
   // --- Enable shadows on all meshes and skinned meshes ---
