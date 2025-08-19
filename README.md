@@ -150,7 +150,9 @@ Then deploy the `dist` folder.
 
 ## Acknowledgements
 
-- [pmndrs](https://github.com/pmndrs) for the R3F ecosystem
+- **Original Starter Project:**  
+  Built on top of the [Bolt Character Controller Starter](https://bolt.new/~/sb1-px1vllor), which was created by [@xr.architect](https://www.threads.net/@xr.architect) as part of his "AI Character Controller" weekend demo ([see the Threads post](https://www.threads.net/@xr.architect/post/DGy5aI2yBMt)).  
+- [pmndrs](https://github.com/pmndrs) for the React Three Fiber ecosystem
 - [Rapier Physics](https://rapier.rs/)
 - [Leva](https://leva.pmnd.rs/)
 - [Three.js](https://threejs.org/)
