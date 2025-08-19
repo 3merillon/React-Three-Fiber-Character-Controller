@@ -150,6 +150,7 @@ Then deploy the `dist` folder.
 
 ## Acknowledgements
 
+- Inspired by the ["AI Character Controller" demo by @xr.architect](https://www.threads.net/@xr.architect/post/DGy5aI2yBMt), created with Bolt (Claude Sonnet 3.7), R3F, and three.js. This project started as a heavily modified version of that weekend demo (see the [Threads post](https://www.threads.net/@xr.architect/post/DGy5aI2yBMt)).
 - [pmndrs](https://github.com/pmndrs) for the R3F ecosystem
 - [Rapier Physics](https://rapier.rs/)
 - [Leva](https://leva.pmnd.rs/)
