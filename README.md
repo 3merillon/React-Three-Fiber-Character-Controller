@@ -38,17 +38,17 @@ Includes robust mobile controls, day/night cycle, cascaded shadow mapping, and a
 
 ### Installation
 
-bash´´´
+```
 git clone https://github.com/yourusername/r3f-infinite-character-controller.git
 cd r3f-infinite-character-controller
 npm install
-´´´
+```
 
 ### Running the App
 
-bash´´´
+```
 npm run dev
-´´´
+```
 
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
@@ -105,7 +105,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## Project Structure
 
-bash´´´
+```
 /src
   /components         # 3D scene, character, sky, environment, mobile controls
   /camera             # Camera system
@@ -119,7 +119,7 @@ bash´´´
   /models             # 3D models (GLB)
   /textures           # Terrain textures
   screenshot.png      # Project screenshot
-´´´
+```
 
 ---
 
@@ -140,9 +140,9 @@ bash´´´
 
 The app is ready to be deployed on [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or any static hosting.
 
-bash´´´
+```
 npm run build
-´´´
+```
 
 Then deploy the `dist` folder.
 
