@@ -25,7 +25,7 @@ Includes robust mobile controls, day/night cycle, cascaded shadow mapping, and a
 
 ## Live Demo
 
-[**Try the demo →**](https://character-sample-project.netlify.app/)
+[**Try the demo →**](https://react-three-fiber-character-control.vercel.app/)
 
 ---
 
