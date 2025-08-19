@@ -1,4 +1,4 @@
-# r3f-infinite-character-controller
+# React-Three-Fiber-Character-Controller
 
 A fully interactive 3D character controller and infinite procedural world built with React Three Fiber, Rapier physics, and advanced rendering techniques.  
 Includes robust mobile controls, day/night cycle, cascaded shadow mapping, and a powerful terrain system.  
