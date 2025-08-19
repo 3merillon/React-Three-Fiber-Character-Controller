@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  background: #000 !important;
+}
+
+/* Hide Leva GUI panel on mobile */
+@media (max-width: 768px) {
+  [class*="leva-c-"]:not([class*="leva-c-kYFrxY"]) {
+    display: none !important;
+  }
+}
